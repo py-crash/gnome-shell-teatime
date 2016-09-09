@@ -17,7 +17,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 #: ../src/extension.js:86 ../src/extension.js:340
 msgid "Your tea is ready!"
-msgstr "Su té está listo!"
+msgstr "¡Su té está listo!"
 #: ../src/extension.js:191
 msgid "Show settings"
 msgstr "Preferencias"
@@ -29,11 +29,11 @@ msgid "TeaTime applet"
 msgstr "Applicación TeaTime"
 #: ../src/extension.js:313
 msgid "Timer set!"
-msgstr "Definir el tiempo!"
+msgstr "¡Tiempo seleccionado!"
 #: ../src/extension.js:313
 #, javascript-format
 msgid "%ss to go"
-msgstr "para ir %ss"
+msgstr "Faltan %ss"
 #: ../src/extension.js:341
 msgid "Drink it, while it is hot!"
 msgstr "Beba mientras está caliente!"
@@ -42,7 +42,7 @@ msgid "Fullscreen Notifications"
 msgstr "Notificaciones en pantalla completa"
 #: ../src/prefs.js:70
 msgid "Graphical Countdown"
-msgstr "Cuenta atrás gráfica"
+msgstr "Cuenta regresiva gráfica"
 #: ../src/prefs.js:96
 msgid "Tea"
 msgstr "Té"
@@ -58,7 +58,7 @@ msgstr ""
 "\": 120 }"
 #: ../src/schemas/org.gnome.shell.extensions.teatime.gschema.xml.in.h:2
 msgid "Tea drawing times list"
-msgstr "Tiempo de infusión de diferentes tés"
+msgstr "Tiempo de infusión de diferentes tipos de té"
 #: ../src/schemas/org.gnome.shell.extensions.teatime.gschema.xml.in.h:3
 msgid "A mapping of a teas to their corresponding drawing time in seconds."
 msgstr "Correspondencias entre cada té y el tiempo de infusión en segundos."
